@@ -86,8 +86,8 @@ A: Yes! We offer 3 different plans:
 
 ### Can be integrated into recurring bill
 ```
-Hedge Trimming              (Subject to estimate)
-Animal Waste Removal        2 visits/month starting @ $25
+Hedge Trimming                      (Subject to estimate)
+Animal Waste Removal                2 visits/month starting @ $25
 ```
 
 ### Only available through hourly rate 
@@ -95,9 +95,11 @@ Animal Waste Removal        2 visits/month starting @ $25
 - One hour minimum charge after 30 minutes
 
 ```
-Weed Removal                $35/hour + Materials (IA)
-Sprinkler Head Repair       $25/hour + Materials (IA)
-Junk Removal                (Subject to estimate) + Disposal Fee
+Weed Removal (Existing Customer)    $35/hour + Materials (IA)
+Weed Removal (New Customer)         $50/hour + Materials (IA)
+
+Sprinkler Head Repair               $25/hour + Materials (IA)
+Junk Removal                        (Subject to estimate) + Disposal Fee
 ```
 
 <br>
