@@ -6,7 +6,7 @@
 
 *I'm Nathan. My business partner, Chris, and I run a small, wallet-friendly lawn care business.*
 
-*Just wanted to see if you have a sec to hear about what we offer.*
+*Just wanted to see if you have a sec to hear about what we do.*
 
 ---
 
