@@ -12,9 +12,7 @@
 
 ## If they say NO (to pitch):
 
-No worries!
-
-Mind if I leave a card with you in case you?
+*No worries! Mind if I leave a card with you?*
 
 ## If they say YES (to card) and they are:
 
