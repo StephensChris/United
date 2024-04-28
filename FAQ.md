@@ -185,6 +185,4 @@ If they want us to provide extra services on a recurring basis (ie. adding hedge
 
 ---
 
-# A3. ) 
-
 </h1>
