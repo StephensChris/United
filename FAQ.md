@@ -95,9 +95,7 @@ Animal Waste Removal                2 visits/month starting @ $25
 - One hour minimum charge after 30 minutes
 
 ```
-Weed Removal (Existing Customer)    $25/hour + Materials (IA)
-Weed Removal (New Customer)         $30/hour + Materials (IA)
-
+Weed Removal                        $30/hour + Materials (IA)
 Sprinkler Head Repair               $25/hour + Materials (IA)
 Junk Removal                        (Subject to estimate) + Disposal Fee
 ```
